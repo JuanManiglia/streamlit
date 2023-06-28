@@ -59,7 +59,7 @@ st.sidebar.text('App created by Juan Maniglia')
 #-----------------------------------------------------------------------
 
 # Title
-st.title('Restaurants Dashboard')
+st.title('Restaurants Dashboard!!!!!!!!!!!!!!!!!!!!!')
 
 # Subheader
 st.subheader('A quick view of the ***Good Meal*** restaurants around the world.')
