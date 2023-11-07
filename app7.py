@@ -87,15 +87,15 @@ with col1:
     st.text('REVENUE')
 # column 2 - Count of meals
 with col2:
-    st.title(df.city.count())
+    st.title(df['city'].count())
     st.text('MEALS')
 # column 3 - Sum of clients
 with col3:
-    st.title(df.size.sum())
+    st.title(df['size'].sum())
     st.text('CLIENTS')
 # column 4 - Count of cities
 with col4:
-    st.title(df.city.nunique())
+    st.title(df['city'].nunique())
     st.text('CITIES')
 
 #-----------------------------------------------------------------------
